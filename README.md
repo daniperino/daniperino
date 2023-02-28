@@ -1,6 +1,6 @@
 ### Oii!! Eu sou a Daniella Perino
 
-👩‍💻 Estudante do 3º período de ADS. 
+👩‍💻 Estudante do 4º período de ADS. 
 
 <div align="center">
   <a href="https://github.com/daniperino">
