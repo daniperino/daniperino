@@ -1,6 +1,7 @@
-### Oii!! Eu sou a Daniella Perino
+### Oiiee!! Eu sou a Daniella Perino
 
-👩‍💻 Estudante do 4º período de ADS. 
+👩‍💻 Formada em Análise e Desenvolvimento de Software, trabalho como Analista de Qualidade de Software QA.
+Também sou formada em Fisioterapia, mas não atuante. 
 
 <div align="center">
   <a href="https://github.com/daniperino">
